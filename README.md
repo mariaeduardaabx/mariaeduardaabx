@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.imgur.com/PKxYq3E.gif](https://64.media.tumblr.com/fd1b8506719a74ee6c1c9b7a068fb48d/dfd90c1100a1f84b-e4/s400x600/62b06cc49b6483821aee50fbe33bac96086ac2d1.gif)" width="90px" alt="sparkle gif">
+<img src="[[https://i.imgur.com/PKxYq3E.gif](https://64.media.tumblr.com/fd1b8506719a74ee6c1c9b7a068fb48d/dfd90c1100a1f84b-e4/s400x600/62b06cc49b6483821aee50fbe33bac96086ac2d1.gif)](https://cdn.custom-cursor.com/packs/9226/kawaii-pompompurin-pack.png)" width="90px" alt="sparkle gif">
 
  Maria Eduarda 🥞🐾
  
