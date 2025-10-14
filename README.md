@@ -19,10 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaabx&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=d8bfd8&bg_color=1a1a1a" width="300px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaeduardaabx&theme=rose-pine&hide_border=false&background=1a1a1a&dates_color=d8bfd8&fire_color=ffb6c1&curr_streak_label=ffb6c1&side_labels=E5AAFF" width="420px" />
-</p>
-
 ---
 
 🍮 Thanks for visiting my little corner~
