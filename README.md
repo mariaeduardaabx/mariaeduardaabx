@@ -9,7 +9,7 @@
 
 ---
 
-☘️ GitHub Statistics
+   ☘️ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaabx&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=d8bfd8&bg_color=1a1a1a" width="300px" />
