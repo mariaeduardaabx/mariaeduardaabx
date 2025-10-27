@@ -1,4 +1,6 @@
 <div align="center">
+
+<img src="https://github.com/mariaeduardaabx/mariaeduardaabx/blob/main/create-cute-and-simple-pixel-art-gif.webp?raw=true" />
  
 Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.
 I speak portuguese and english.
