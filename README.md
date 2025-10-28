@@ -16,9 +16,13 @@ Currently, I'm studying Python, C, HTML, CSS, JavaScript, and PHP 💻
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardaabx&layout=compact&theme=rose_pine&title_color=ffb6c1&text_color=d8bfd8&bg_color=1a1a1a" width="300px" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 --- 
 Keep learning, stay curious, and make something you’d be proud of. ☕
