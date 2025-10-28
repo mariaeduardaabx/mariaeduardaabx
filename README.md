@@ -13,7 +13,7 @@ Currently, I'm studying Python, C, HTML, CSS and JavaScript 💻
  • I love drawing in my free time
  • I enjoy playing games to relax and get inspired
  • I’m passionate about technology and always looking for new things to learn
- • Mostly interested in back-end development and web development
+ • Mostly interested in back-end development
 
 
 
