@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/65cc9d809d1e87bc70087deedb84d70bbbf77d47/530496f5dcf65046e8c0360d7d89b10a.gif" />
  
 Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.
 I speak portuguese and english.
