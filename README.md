@@ -1,32 +1,33 @@
-<!--  Animação rosa inicial  -->
+<!-- 🌸 Animação rosa inicial -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
 </div>
 
+<!-- 🌸 Imagem de anime -->
 <div align="center">
-  <!-- imagem de anime -->
   <img src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/0687da7a0fdf95fc3de69c29895ade99a40fb37f/pngegg(1).png" width="250" style="border-radius: 20px; margin-top: 10px;" />
 </div>
-
-<div align="center">
-  <img src="https://github.com/mariaeduardaabx/mariaeduardaabx/blob/main/ezgif-6811dc3bf741fa.gif?raw=true" width="250" />
-</div>
-
 ---
 
-Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.  
+<div align="center">
+  <h2>🌸 Hello! I'm Maria Eduarda 🌸</h2>
+</div>
+
+<p align="center">
+I'm a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.  
 I speak Portuguese and English.  
 Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
+</p>
 
 ---
 
 ### 🫧 About Me
- • I love drawing in my free time  
- • I love reading books that make me think and feel deeply
- • I enjoy watching movies that inspire me or make me reflect
- • I enjoy playing games to relax and get inspired  
- • I’m passionate about technology and always looking for new things to learn  
- • Mostly interested in back-end development  
+• I love drawing in my free time  
+• I love reading books that make me think and feel deeply  
+• I enjoy watching movies that inspire me or make me reflect  
+• I enjoy playing games to relax and get inspired  
+• I’m passionate about technology and always looking for new things to learn  
+• Mostly interested in back-end development  
 
 ---
 
@@ -43,10 +44,11 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 
 ---
 
+<!-- 🌸 Gráfico de contribuições -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -54,24 +56,25 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 ### 🫧 Connect with Me
 
 <div align="center">
-  <a href="[https://twitter.com/teu_twitter_aqui](https://x.com/mikugelic)">
+  <a href="https://x.com/mikugelic" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-ffb6c1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <!-- <a href="https://www.linkedin.com/in/teu_linkedin_aqui/">
+  <!--
+  <a href="https://www.linkedin.com/in/teu_linkedin_aqui/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
+  </a>
+  -->
 </div>
 
 ---
 
-Keep learning, stay curious, and make something you’d be proud of. ☕
+<div align="center">
+  <em>Keep learning, stay curious, and make something you’d be proud of. ☕</em>
+</div>
 
+---
+
+<!-- 🌸 Animação rosa final -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
 </div>
-
-<!--  Animação rosa final  -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
-</div>
-
