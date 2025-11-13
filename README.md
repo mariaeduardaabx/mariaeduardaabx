@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 🌊 Onda rosa bebê inicial -->
+<!--  Onda rosa bebê inicial -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcce7,50:ffb6d5,100:ff99cc&height=200&section=header&text=Maria%20Eduarda%20🫧&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Information%20Systems%20Student%20|%20Back-end%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
 
 <div align="center">
@@ -24,23 +24,33 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
  • I’m passionate about technology and always looking for new things to learn  
  • Mostly interested in back-end development  
 
-
-
 <!-- Separador rosa bebê -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
 ### 🫧 GitHub Stats & Activity
 
 <div align="center">
+  <!-- linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduardaabx&layout=compact&card_width=320&langs_count=5&bg_color=0d1117&title_color=ff99cc&text_color=ffb6d5&border_color=ff99cc&hide_border=false&border_radius=15" height="150" alt="Languages Graph" />
-</div>
+  
+  <br/><br/>
 
-<br/>
 
-<div align="center">
+
+  <!-- gráfico de atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaeduardaabx&theme=tokyo-night&bg_color=0d1117&color=ff99cc&line=ff66b2&point=ffb6d5&area=true&hide_border=false&border_color=ffb6d5&custom_title=Contribution%20Graph%20💗&radius=15" alt="Contribution Graph" width="90%"/>
-</div>
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
+
+    <!-- gráfico do pacman -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg" width="90%">
+  </picture>
+
+  <br/>
+</div> 
 
 
 <!-- Separador rosa bebê -->
@@ -56,7 +66,6 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
     <img src="https://img.shields.io/badge/LinkedIn-ffb6d5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> -->
 </div>
-
 
 <!-- Separador rosa bebê -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
