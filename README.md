@@ -40,9 +40,7 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
   <!-- gráfico de atividade -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariaeduardaabx&theme=tokyo-night&bg_color=0d1117&color=ff99cc&line=ff66b2&point=ffb6d5&area=true&hide_border=false&border_color=ffb6d5&custom_title=Contribution%20Graph%20💗&radius=15" alt="Contribution Graph" width="90%"/>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
-    <!-- gráfico do pacman -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
