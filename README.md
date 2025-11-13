@@ -10,8 +10,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
-Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.  
-I speak Portuguese and English.  
+Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.   
 Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
