@@ -1,28 +1,47 @@
-
+<!--  Animação rosa inicial  -->
 <div align="center">
-<img src="https://github.com/mariaeduardaabx/mariaeduardaabx/blob/main/ezgif-6811dc3bf741fa.gif?raw=true" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
 </div>
 
-Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.
-I speak portuguese and english.
-Currently, I'm studying Python, C, HTML, CSS and JavaScript 💻
+<div align="center">
+  <!-- imagem de anime -->
+  <img src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/0687da7a0fdf95fc3de69c29895ade99a40fb37f/pngegg(1).png" width="250" style="border-radius: 20px; margin-top: 10px;" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/mariaeduardaabx/mariaeduardaabx/blob/main/ezgif-6811dc3bf741fa.gif?raw=true" width="250" />
+</div>
 
 ---
 
-### About Me
- • I love drawing in my free time
- • I enjoy playing games to relax and get inspired
- • I’m passionate about technology and always looking for new things to learn
- • Mostly interested in back-end development
+Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.  
+I speak Portuguese and English.  
+Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 
+---
 
+### 🫧 About Me
+ • I love drawing in my free time  
+ • I love reading books that make me think and feel deeply
+ • I enjoy watching movies that inspire me or make me reflect
+ • I enjoy playing games to relax and get inspired  
+ • I’m passionate about technology and always looking for new things to learn  
+ • Mostly interested in back-end development  
 
+---
 
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
+</div>
 
---- 
-Keep learning, stay curious, and make something you’d be proud of. ☕
+### 🫧 GitHub Stats & Activity
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduardaabx&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="Languages Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariaeduardaabx&theme=rose_pine&hide_border=true" height="150" alt="Contribution Streak" />
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph-dark.svg">
@@ -30,6 +49,29 @@ Keep learning, stay curious, and make something you’d be proud of. ☕
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mariaeduardaabx/mariaeduardaabx/output/pacman-contribution-graph.svg">
 </picture>
 
+---
+
+### 🫧 Connect with Me
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduardaabx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="[https://twitter.com/teu_twitter_aqui](https://x.com/mikugelic)">
+    <img src="https://img.shields.io/badge/Twitter-ffb6c1?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <!-- <a href="https://www.linkedin.com/in/teu_linkedin_aqui/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> -->
 </div>
+
+---
+
+Keep learning, stay curious, and make something you’d be proud of. ☕
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
+</div>
+
+<!--  Animação rosa final  -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.svg" width="100%" height="5px" />
+</div>
+
