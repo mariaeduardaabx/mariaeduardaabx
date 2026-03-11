@@ -1,7 +1,7 @@
 <div align="center">
 
 <!--  Onda rosa bebê inicial -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcce7,50:ffb6d5,100:ff99cc&height=200&section=header&text=Maria%20Eduarda%20🫧&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Information%20Systems%20Student%20|%20Back-end%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcce7,50:ffb6d5,100:ff99cc&height=200&section=header&text=Maria%20Eduarda%20&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Information%20Systems%20Student%20|%20Back-end%20Enthusiast&descSize=16&descAlignY=55" width="100%" />
 
 <div align="center">
   <!-- imagem de anime -->
@@ -11,11 +11,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
 Hello! I'm Maria Eduarda, a 20-year-old Information Systems student who loves exploring the logic behind code and turning ideas into something real.   
-Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
+Currently, I'm studying Python, C, HTML and CSS.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
-### 🫧 About Me
+### 🍡 About Me
  • I love drawing in my free time  
  • I love reading books that make me think and feel deeply  
  • I enjoy watching movies that inspire me or make me reflect  
@@ -26,7 +26,7 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 <!-- Separador rosa bebê -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
-### 🫧 GitHub Stats & Activity
+### 🍡 GitHub Stats & Activity
 
 <div align="center">
   <!-- linguagens mais usadas -->
@@ -53,7 +53,7 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 <!-- Separador rosa bebê -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
-### 🫧 Connect with Me
+### 🍡 Connect with Me
 
 <div align="center">
   <a href="https://x.com/mikugelic">
@@ -67,7 +67,7 @@ Currently, I'm studying Python, C, HTML, CSS, PHP and JavaScript 💻
 <!-- Separador rosa bebê -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffcce6,50:ffb6d5,100:ff99cc&height=3&section=header" width="100%" />
 
-Keep learning, stay curious, and make something you’d be proud of. ☕
+Keep learning, stay curious, and make something you’d be proud of. 
 
 <!--  Onda rosa bebê final -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcce7,50:ffb6d5,100:ff99cc&height=120&section=footer" width="100%" />
